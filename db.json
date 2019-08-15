@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "阳瑞",
+      "phone": "222-333-444",
+      "email": "yangrui@qq.com",
+      "education": "大专",
+      "graduationschool": "长沙民政",
+      "profession": "it",
+      "id": 2
+    },
+    {
+      "name": "阳涛",
+      "phone": "111-333-444",
+      "email": "yangtao@qq.com",
+      "education": "本科",
+      "graduationschool": "永州",
+      "profession": "it",
+      "id": 3
+    },
+    {
+      "name": "邹治湖",
+      "phone": "333-222-444",
+      "email": "zouzhihu@qq.com",
+      "education": "高中",
+      "graduationschool": "无",
+      "profession": "当兵的",
+      "id": 4
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good"
+    },
+    {
+      "id": 2,
+      "name": "google",
+      "description": "google is good"
+    },
+    {
+      "id": 3,
+      "name": "huawei",
+      "description": "huawei is good"
+    }
+  ]
+}
